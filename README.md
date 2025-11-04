@@ -31,7 +31,6 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 2. SSL Certificate Configuration (if using a proxy):
    - Place SSL certificate at `~/.certs/netskope_openai.pem`
-   - If no proxy is needed, comment out or remove SSL-related lines
 
 ## Dataset Preparation
 
