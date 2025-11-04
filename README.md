@@ -12,11 +12,11 @@ This notebook demonstrates an Agent Routing optimization experiment using DSPy's
 ### Required Packages
 
 ```bash
-pip install dspy-ai pandas scikit-learn openai python-dotenv
+pip install dspy-ai==3.0.3 pandas scikit-learn openai python-dotenv
 ```
 
 Key dependencies:
-- `dspy-ai`: DSPy framework
+- `dspy-ai`: DSPy framework, 3.0.3 used in sample code
 - `pandas`: Data processing
 - `scikit-learn`: Dataset splitting (train_test_split)
 - `openai`: OpenAI API client
